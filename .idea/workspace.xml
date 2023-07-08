@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffec23ed-221b-4c4b-b3ab-ecf29656e989" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mapsa2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part1/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part1/AuthorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part1/Author_Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part1/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part1/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part1/CrudTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part1/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part1/Post2Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part1/genericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part2/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part2/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part2/ArtistService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part2/Artist_Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part2/CrudTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part2/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part2/SongService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part3/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part3/AuthorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part3/Author_Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part3/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part3/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part3/CrudTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part3/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part3/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/RoleCrudTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/SessionFactoryProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/UserCrudTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/entities/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/entities/Credential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/entities/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/entities/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/entities/artist/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/entities/artist/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/service/CredentialService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/service/PermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/mapsa/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/md/ManyToOne Annotation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/md/OneToMany Annotation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/md/OneToOne Annotation.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2-sources.jar!/javax/persistence/GenerationType.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.26/lombok-1.18.26-sources.jar!/lombok/Data.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/mapsa/entities/User.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2SEXWaXEVMDKfQXhe4moxT3ckny" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/ershadbakhsh/mapsa2/src/main/java/org/mapsa",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.13940091",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.mapsa.Practice24Part1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/mapsa" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.mapsa.Practice24Part1.CrudTest">
+    <configuration name="CrudTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mapsa.Practice24Part2.CrudTest" />
+      <module name="Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mapsa.Practice24Part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="mapsa2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoleCrudTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mapsa.RoleCrudTest" />
+      <module name="Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mapsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCrudTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mapsa.UserCrudTest" />
+      <module name="Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mapsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.mapsa.Practice24Part1.CrudTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mapsa.Practice24Part1.CrudTest" />
+      <module name="Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mapsa.Practice24Part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.mapsa.Practice24Part1.CrudTest" />
+        <item itemvalue="Application.CrudTest" />
+        <item itemvalue="Application.UserCrudTest" />
+        <item itemvalue="Application.RoleCrudTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffec23ed-221b-4c4b-b3ab-ecf29656e989" name="Changes" comment="" />
+      <created>1688712748892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688712748892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/mapsa/RoleCrudTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/mapsa/RoleCrudTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/mapsa/Practice24Part2/CrudTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
